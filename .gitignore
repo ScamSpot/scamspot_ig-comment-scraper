@@ -1,0 +1,11 @@
+/output
+/temp
+/venv
+/modules/cryptostatistic/cache/
+/modules/followerCleaner/data/
+/.idea
+**/__pycache__
+*.pyc
+*.pyo
+*.log
+*.txt
